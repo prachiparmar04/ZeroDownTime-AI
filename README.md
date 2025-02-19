@@ -31,9 +31,11 @@ Then, Run Streamlit
 
 Then Setup your WATSONX Keys in .env file.
 
-```WATSONX_APIKEY=""
+```
+WATSONX_APIKEY=""
 WX_PROJECT_ID=""
-WATSONX_API_BASE=""```
+WATSONX_API_BASE=""
+```
 
 # Solution Architecture
 
