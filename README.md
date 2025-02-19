@@ -29,6 +29,12 @@ pip install -r requirements.txt
 Then, Run Streamlit
 ```pip install streamlit```
 
+Then Setup your WATSONX Keys in .env file.
+
+```WATSONX_APIKEY=""
+WX_PROJECT_ID=""
+WATSONX_API_BASE=""```
+
 # Solution Architecture
 
 ![image](https://github.com/user-attachments/assets/44075687-43b9-4c2e-8ed3-f3633957b3f4)
