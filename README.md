@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/f0075bab-631a-4b01-8a92-a6fee90eacd5)# ZerodowntimeAiAgentic Crew, Refere to LLMao-Hackathon-Usecase-Submission.pdf to Understand the UseCase.
+# ZerodowntimeAiAgentic Crew, 
+
+Refere to LLMao-Hackathon-Usecase-Submission.pdf file to Understand the UseCase.
 
 Welcome to the ZerodowntimeAiAgentic Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. 
 
