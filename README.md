@@ -1,8 +1,8 @@
-# ZerodowntimeAiAgentic Crew, 
+# ZeroDowntime AI 
 
-Refere to LLMao-Hackathon-Usecase-Submission.pdf file to Understand the UseCase.
+Welcome to the ZerodowntimeAiAgentic Crew project. This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. 
+Refer to LLMao-Hackathon-Usecase-Submission.pdf file to Understand the UseCase.
 
-Welcome to the ZerodowntimeAiAgentic Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. 
 
 # Goal
 Our goal is to to optimize equipment reliability and operational efficiency within manufacturing environments. It integrates IoT sensors and SCADA systems to provide predictive insights, automate maintenance workflows, and ensure real-time operational transparency.
