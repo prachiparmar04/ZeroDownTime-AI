@@ -1,0 +1,101 @@
+Sl_No,Equipment,Activity_Description,Frequency,Last_Activity_Date,Next_Activity_Date,Duration (hours)
+1,Compressor-38,Test pressure relief valves,Quarterly,2025-01-06 18:42:59,2025-01-06 08:56:31,4
+2,Compressor-38,Monitor temperature levels,Annually,2025-01-04 03:45:36,2025-01-11 07:23:54,5
+3,Turbine-20,Check vibration levels and balance,Monthly,2025-01-01 10:27:17,2025-01-18 13:21:20,3
+4,Turbine-20,Check vibration levels and balance,Daily,2025-01-26 17:04:37,2025-01-11 09:35:21,5
+5,Compressor-38,Inspect for air leaks,Weekly,2025-01-20 01:17:50,2025-01-15 16:14:13,5
+6,Pump-1,Test pressure levels,Daily,2025-01-15 12:32:16,2025-01-23 10:22:30,2
+7,Compressor-38,Test pressure relief valves,Quarterly,2025-01-18 04:17:49,2025-01-10 05:29:18,3
+8,Turbine-20,Examine control system performance,Monthly,2025-01-07 18:18:57,2025-01-27 14:11:07,3
+9,Compressor-38,Test pressure relief valves,Monthly,2025-01-23 06:41:46,2025-01-18 00:51:14,3
+10,Pump-1,Lubricate pump bearings,Annually,2025-01-11 05:07:41,2025-01-23 11:03:46,5
+11,Compressor-38,Check air filters and replace if necessary,Quarterly,2025-01-16 23:03:57,2025-01-04 00:30:33,4
+12,Compressor-38,Monitor temperature levels,Annually,2025-01-05 02:42:05,2025-01-24 03:21:13,3
+13,Turbine-20,Examine control system performance,Quarterly,2025-01-09 17:03:52,2025-01-28 22:15:56,5
+14,Turbine-20,Check vibration levels and balance,Quarterly,2025-01-10 18:34:13,2025-01-30 10:29:44,2
+15,Pump-1,Check pump seals for leaks,Weekly,2025-01-28 13:33:38,2025-01-06 09:47:35,4
+16,Compressor-38,Clean and lubricate moving parts,Quarterly,2025-01-29 22:09:07,2025-01-31 03:41:31,2
+17,Turbine-20,Check vibration levels and balance,Weekly,2025-01-07 08:51:17,2025-01-13 16:06:12,4
+18,Compressor-38,Test pressure relief valves,Monthly,2025-01-19 09:21:03,2025-01-08 20:13:54,5
+19,Pump-1,Inspect motor alignment,Annually,2025-01-29 05:12:31,2025-01-13 00:02:09,1
+20,Compressor-38,Check air filters and replace if necessary,Weekly,2025-01-14 02:40:58,2025-01-21 03:32:37,4
+21,Compressor-38,Check air filters and replace if necessary,Daily,2025-01-17 03:10:06,2025-01-23 20:51:02,2
+22,Compressor-38,Monitor temperature levels,Annually,2025-01-31 10:30:21,2025-01-06 17:30:15,5
+23,Turbine-20,Check vibration levels and balance,Daily,2025-01-08 14:09:06,2025-01-20 18:20:05,4
+24,Pump-1,Inspect motor alignment,Daily,2025-01-17 17:13:59,2025-01-24 03:53:19,1
+25,Compressor-38,Inspect for air leaks,Quarterly,2025-01-03 11:27:11,2025-01-03 15:02:10,1
+26,Compressor-38,Clean and lubricate moving parts,Quarterly,2025-01-22 22:50:40,2025-01-11 04:21:34,3
+27,Pump-1,Test pressure levels,Quarterly,2025-01-15 22:34:46,2025-01-08 01:32:01,3
+28,Turbine-20,Lubricate rotor bearings,Weekly,2025-01-05 08:04:56,2025-01-08 04:47:58,2
+29,Pump-1,Test pressure levels,Daily,2025-01-09 20:02:25,2025-01-22 04:49:23,4
+30,Compressor-38,Monitor temperature levels,Weekly,2025-01-14 02:38:21,2025-01-31 06:37:24,4
+31,Turbine-20,Lubricate rotor bearings,Annually,2025-01-17 01:34:08,2025-01-07 08:09:56,3
+32,Pump-1,Check pump seals for leaks,Quarterly,2025-01-10 04:31:34,2025-01-04 08:15:48,4
+33,Compressor-38,Check air filters and replace if necessary,Quarterly,2025-01-14 13:13:04,2025-01-14 05:23:12,4
+34,Turbine-20,Check vibration levels and balance,Monthly,2025-01-26 21:38:16,2025-01-19 16:00:28,1
+35,Pump-1,Lubricate pump bearings,Annually,2025-01-07 09:24:16,2025-01-17 16:25:27,3
+36,Turbine-20,Examine control system performance,Daily,2025-01-21 15:07:28,2025-01-21 06:21:55,5
+37,Compressor-38,Inspect for air leaks,Weekly,2025-01-28 04:23:10,2025-01-04 05:37:53,3
+38,Compressor-38,Check air filters and replace if necessary,Quarterly,2025-01-13 00:35:28,2025-01-30 21:08:25,5
+39,Compressor-38,Inspect for air leaks,Weekly,2025-01-02 19:08:36,2025-01-31 02:33:53,1
+40,Turbine-20,Test emergency shutdown mechanisms,Daily,2025-01-12 19:44:04,2025-01-13 22:13:41,2
+41,Turbine-20,Inspect turbine blades for wear and tear,Weekly,2025-01-17 22:33:29,2025-01-24 14:49:40,4
+42,Turbine-20,Test emergency shutdown mechanisms,Daily,2025-01-30 05:16:38,2025-01-02 19:44:24,1
+43,Pump-1,Check pump seals for leaks,Monthly,2025-01-16 06:53:34,2025-01-09 10:36:58,4
+44,Compressor-38,Check air filters and replace if necessary,Monthly,2025-01-23 05:26:45,2025-01-31 03:12:16,2
+45,Turbine-20,Examine control system performance,Weekly,2025-01-09 22:17:00,2025-01-02 00:39:21,2
+46,Turbine-20,Inspect turbine blades for wear and tear,Annually,2025-01-04 16:54:38,2025-01-17 18:24:11,1
+47,Compressor-38,Monitor temperature levels,Daily,2025-01-25 10:13:14,2025-01-23 09:59:18,2
+48,Pump-1,Test pressure levels,Annually,2025-01-13 17:51:36,2025-01-26 04:13:23,5
+49,Turbine-20,Inspect turbine blades for wear and tear,Monthly,2025-01-11 02:30:19,2025-01-15 16:25:42,2
+50,Turbine-20,Inspect turbine blades for wear and tear,Quarterly,2025-01-23 23:08:59,2025-01-31 11:33:08,4
+51,Compressor-38,Clean and lubricate moving parts,Quarterly,2025-01-19 06:33:08,2025-01-18 20:51:09,4
+52,Compressor-38,Test pressure relief valves,Quarterly,2025-01-23 09:25:43,2025-01-23 02:41:33,4
+53,Turbine-20,Check vibration levels and balance,Monthly,2025-01-28 21:12:30,2025-01-29 13:20:48,4
+54,Turbine-20,Lubricate rotor bearings,Weekly,2025-01-25 06:53:32,2025-01-24 20:13:05,5
+55,Turbine-20,Lubricate rotor bearings,Monthly,2025-01-20 04:37:11,2025-01-18 23:40:27,3
+56,Turbine-20,Check vibration levels and balance,Quarterly,2025-01-15 05:44:48,2025-01-23 14:05:13,1
+57,Pump-1,Lubricate pump bearings,Annually,2025-01-15 21:15:11,2025-01-30 08:41:08,4
+58,Compressor-38,Test pressure relief valves,Monthly,2025-01-11 01:26:25,2025-01-25 01:55:59,2
+59,Compressor-38,Check air filters and replace if necessary,Quarterly,2025-01-03 09:56:02,2025-01-09 13:07:56,4
+60,Compressor-38,Test pressure relief valves,Monthly,2025-01-26 16:55:45,2025-01-31 03:31:59,2
+61,Turbine-20,Inspect turbine blades for wear and tear,Weekly,2025-01-20 00:25:58,2025-01-10 12:33:37,2
+62,Turbine-20,Inspect turbine blades for wear and tear,Quarterly,2025-01-29 18:13:05,2025-01-29 08:00:46,4
+63,Compressor-38,Inspect for air leaks,Monthly,2025-01-23 13:06:18,2025-01-14 10:02:16,5
+64,Pump-1,Inspect motor alignment,Quarterly,2025-01-30 12:40:25,2025-01-29 19:10:17,2
+65,Pump-1,Inspect motor alignment,Daily,2025-01-21 01:31:20,2025-01-26 01:59:23,2
+66,Turbine-20,Test emergency shutdown mechanisms,Quarterly,2025-01-22 20:30:27,2025-01-15 19:16:01,4
+67,Pump-1,Inspect motor alignment,Daily,2025-01-13 02:50:19,2025-01-15 12:27:57,2
+68,Turbine-20,Inspect turbine blades for wear and tear,Quarterly,2025-01-26 23:11:57,2025-01-04 09:24:25,2
+69,Compressor-38,Test pressure relief valves,Monthly,2025-01-21 19:02:50,2025-01-20 08:49:05,4
+70,Turbine-20,Lubricate rotor bearings,Monthly,2025-01-04 17:55:26,2025-01-08 20:58:40,4
+71,Pump-1,Inspect motor alignment,Monthly,2025-01-16 19:57:37,2025-01-26 06:31:21,1
+72,Turbine-20,Check vibration levels and balance,Daily,2025-01-08 20:31:58,2025-01-04 12:37:52,5
+73,Pump-1,Inspect motor alignment,Annually,2025-01-07 11:43:23,2025-01-13 18:25:22,5
+74,Pump-1,Test pressure levels,Weekly,2025-01-18 11:40:15,2025-01-12 02:45:56,2
+75,Compressor-38,Check air filters and replace if necessary,Daily,2025-01-26 05:53:21,2025-01-29 16:41:10,5
+76,Compressor-38,Test pressure relief valves,Quarterly,2025-01-10 14:17:04,2025-01-03 21:17:13,2
+77,Pump-1,Test pressure levels,Daily,2025-01-15 02:15:38,2025-01-19 13:35:57,1
+78,Pump-1,Check pump seals for leaks,Monthly,2025-01-12 10:40:23,2025-01-07 20:29:34,4
+79,Turbine-20,Test emergency shutdown mechanisms,Weekly,2025-01-26 21:48:49,2025-01-27 12:22:23,4
+80,Compressor-38,Test pressure relief valves,Annually,2025-01-17 23:04:57,2025-01-29 17:59:26,4
+81,Pump-1,Lubricate pump bearings,Annually,2025-01-06 15:05:24,2025-01-16 09:42:14,5
+82,Turbine-20,Examine control system performance,Monthly,2025-01-30 23:39:31,2025-01-03 15:05:06,1
+83,Pump-1,Test pressure levels,Monthly,2025-01-09 23:45:05,2025-01-10 11:59:24,5
+84,Pump-1,Lubricate pump bearings,Daily,2025-01-26 01:22:22,2025-01-02 10:17:04,5
+85,Compressor-38,Check air filters and replace if necessary,Daily,2025-01-31 05:59:27,2025-01-26 10:28:03,1
+86,Pump-1,Inspect motor alignment,Daily,2025-01-15 08:43:38,2025-01-06 02:43:43,1
+87,Turbine-20,Examine control system performance,Monthly,2025-01-12 02:44:59,2025-01-16 09:19:41,1
+88,Turbine-20,Examine control system performance,Monthly,2025-01-13 11:35:02,2025-01-07 11:36:38,1
+89,Pump-1,Test pressure levels,Weekly,2025-01-17 06:43:00,2025-01-23 16:29:15,4
+90,Turbine-20,Examine control system performance,Quarterly,2025-01-19 20:26:41,2025-01-18 17:43:31,3
+91,Compressor-38,Clean and lubricate moving parts,Weekly,2025-01-22 07:39:23,2025-01-19 22:59:40,3
+92,Turbine-20,Check vibration levels and balance,Monthly,2025-01-01 16:07:11,2025-01-05 05:03:41,1
+93,Compressor-38,Check air filters and replace if necessary,Monthly,2025-01-25 15:02:30,2025-01-14 04:51:56,3
+94,Compressor-38,Inspect for air leaks,Monthly,2025-01-25 02:52:26,2025-01-07 21:34:00,3
+95,Pump-1,Check pump seals for leaks,Quarterly,2025-01-19 06:30:20,2025-01-19 02:50:53,1
+96,Turbine-20,Inspect turbine blades for wear and tear,Quarterly,2025-01-03 07:44:07,2025-01-08 05:34:40,3
+97,Pump-1,Check pump seals for leaks,Weekly,2025-01-03 17:30:45,2025-01-28 17:23:19,5
+98,Compressor-38,Clean and lubricate moving parts,Daily,2025-01-22 19:51:42,2025-01-11 11:41:27,2
+99,Turbine-20,Test emergency shutdown mechanisms,Daily,2025-01-09 04:25:02,2025-01-28 10:10:35,2
+100,Pump-1,Test pressure levels,Monthly,2025-01-07 15:15:05,2025-01-09 05:15:28,1
